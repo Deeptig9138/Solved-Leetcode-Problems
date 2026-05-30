@@ -103,14 +103,14 @@ If you find this repository useful, feel free to explore the solutions, learn fr
 
 Happy Coding! 🚀
 
-![Linkedin](www.linkedin.com/in/-deepti-gupta)
+[Linkedin](www.linkedin.com/in/-deepti-gupta)
 
-![Leetcode](https://leetcode.com/u/deeptigupta9138/)
+[Leetcode](https://leetcode.com/u/deeptigupta9138/)
 
-![Codeforce](https://codeforces.com/profile/deeptigupta9138)
+[Codeforce](https://codeforces.com/profile/deeptigupta9138)
 
-![Medium](https://medium.com/@deeptisg0)
+[Medium](https://medium.com/@deeptisg0)
 
-![Tryhackme](https://tryhackme.com/p/deeptisg0)
+[Tryhackme](https://tryhackme.com/p/deeptisg0)
 
-![Duolingo]( https://invite.duolingo.com/profile-share/Deeptig9138?via=share_profile_link)
+[Duolingo]( https://invite.duolingo.com/profile-share/Deeptig9138?via=share_profile_link)
