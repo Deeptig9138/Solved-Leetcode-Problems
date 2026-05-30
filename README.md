@@ -1,5 +1,9 @@
 # 🚀 LeetCode Journey
 
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
+
 Welcome to my LeetCode repository!
 
 This repository documents my journey of solving Data Structures and Algorithms problems on LeetCode. Rather than simply storing solutions, the goal is to build a structured collection of problem-solving patterns, optimized approaches, and personal learnings that can be used for interview preparation and continuous improvement.
@@ -17,10 +21,23 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 ---
 
+## 📊 Progress Tracker
+
+| Difficulty | Solved |
+| ---------- | ------ |
+| Easy       | 0      |
+| Medium     | 0      |
+| Hard       | 0      |
+| **Total**  | **0**  |
+
+> This table will be updated as more problems are solved.
+
+---
+
 ## 📂 Repository Structure
 
 ```text
-Solved-Leetcode-Problems/
+Solved-Leetcode-Problems
 │
 ├── README.md
 │
@@ -74,43 +91,30 @@ This structure helps in quickly revisiting concepts and understanding the reason
 
 ---
 
-## 📊 Progress Tracker
+## 🌟 Why This Repository?
 
-| Difficulty | Solved |
-| ---------- | ------ |
-| Easy       | 0      |
-| Medium     | 0      |
-| Hard       | 0      |
-| **Total**  | **0**  |
+This repository is more than a collection of accepted solutions. Each problem includes:
 
-> This table will be updated as more problems are solved.
+* Problem analysis
+* Thought process
+* Optimized approach
+* Complexity analysis
+* Key observations
+* Revision notes
 
----
-
-## 💻 Language
-
-Most solutions are implemented in:
-
-* C++
-
-Additional languages may be added in the future if needed.
+The goal is to focus on learning patterns and developing strong problem-solving skills rather than simply collecting accepted submissions.
 
 ---
 
 ## ⭐ Connect With Me
 
-If you find this repository useful, feel free to explore the solutions, learn from the approaches, and share your feedback.
+* 🔗 LinkedIn: [Deepti Gupta](https://www.linkedin.com/in/-deepti-gupta)
+* 💻 LeetCode: [deeptigupta9138](https://leetcode.com/u/deeptigupta9138/)
+* 🏆 Codeforces: [deeptigupta9138](https://codeforces.com/profile/deeptigupta9138)
+* ✍️ Medium: [@deeptisg0](https://medium.com/@deeptisg0)
+* 🔐 TryHackMe: [deeptisg0](https://tryhackme.com/p/deeptisg0)
+* 🌍 Duolingo: [Deeptig9138](https://invite.duolingo.com/profile-share/Deeptig9138?via=share_profile_link)
+
+---
 
 Happy Coding! 🚀
-
-[Linkedin](www.linkedin.com/in/-deepti-gupta)
-
-[Leetcode](https://leetcode.com/u/deeptigupta9138/)
-
-[Codeforce](https://codeforces.com/profile/deeptigupta9138)
-
-[Medium](https://medium.com/@deeptisg0)
-
-[Tryhackme](https://tryhackme.com/p/deeptisg0)
-
-[Duolingo]( https://invite.duolingo.com/profile-share/Deeptig9138?via=share_profile_link)
