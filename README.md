@@ -77,11 +77,11 @@ Problem Name
 ├── Problem Statement
 ├── Examples
 ├── My Understanding
+├── Key Observation
 ├── Approach
 ├── Dry Run
 ├── Solution
 ├── Complexity Analysis
-├── Key Observation
 ├── Patterns Learned
 ├── Similar Problems
 └── Revision Notes
