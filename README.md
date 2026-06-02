@@ -25,10 +25,10 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 0      |
+| Easy       | 2      |
 | Medium     | 0      |
 | Hard       | 0      |
-| **Total**  | **0**  |
+| **Total**  | **2**  |
 
 > This table will be updated as more problems are solved.
 
@@ -42,24 +42,21 @@ Solved-Leetcode-Problems
 ├── README.md
 │
 ├── Easy/
-│   ├── Problem-Name/
-│   │   ├── README.md
-│   │   └── solution.cpp
-│   │
+│   ├── Problem-Name.md
+│   ├── Problem-Name.md
+│   ├── Problem-Name.md
 │   └── ...
 │
 ├── Medium/
-│   ├── Problem-Name/
-│   │   ├── README.md
-│   │   └── solution.cpp
-│   │
+│   ├── Problem-Name.md
+│   ├── Problem-Name.md
+│   ├── Problem-Name.md
 │   └── ...
 │
 └── Hard/
-    ├── Problem-Name/
-    │   ├── README.md
-    │   └── solution.cpp
-    │
+    ├── Problem-Name.md
+    ├── Problem-Name.md
+    ├── Problem-Name.md
     └── ...
 ```
 
