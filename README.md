@@ -26,9 +26,9 @@ This repository documents my journey of solving Data Structures and Algorithms p
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 5      |
-| Medium     | 1      |
+| Medium     | 2      |
 | Hard       | 0      |
-| **Total**  | **6**  |
+| **Total**  | **7**  |
 
 > This table will be updated as more problems are solved.
 
