@@ -25,10 +25,10 @@ This repository documents my journey of solving Data Structures and Algorithms p
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 8      |
+| Easy       | 9      |
 | Medium     | 2      |
 | Hard       | 0      |
-| **Total**  | **10**  |
+| **Total**  | **11**  |
 
 > This table will be updated as more problems are solved.
 
